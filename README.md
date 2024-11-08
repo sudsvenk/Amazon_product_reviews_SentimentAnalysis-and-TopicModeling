@@ -1,4 +1,4 @@
-# Amazon_product_reviews_SentimentAnalysis-and-TopicModeling
+# Sentiment Analysis and Topic Modeling of Amazon Product Reviews
 Project Overview
 This project aims to perform sentiment analysis and topic modeling on a dataset of Amazon product reviews. The objective is to build a model that accurately predicts the sentiment of reviews (positive, neutral, or negative) and to identify key topics discussed by users. Using natural language processing (NLP) techniques and machine learning, this project provides insights into customer sentiment and common themes in the reviews.
 
